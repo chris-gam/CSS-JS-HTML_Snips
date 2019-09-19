@@ -1,0 +1,9 @@
+/*
+Add the clearfix class to a container which holds floating items and it will ensure 
+that the next items won't float but will be pushed after the container.
+*/
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
