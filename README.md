@@ -6,4 +6,5 @@ A collection of some CSS code that I found useful.
   <li><b>Before After Slider</b>: By <a href="https://codepen.io/dudleystorey"> Dudley Storey </a></li>
   <li><b>Background Change on Click</b>: Change background on click by adding new class to the container.</li>
   <li><b>clearfix-hack.css</b>: Keep your floating items organized.</li>
+  <li><b>font-face.css</b>: Import your font family with CSS.</li>
 </ul>
