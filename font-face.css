@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'FontFamily';
+    src: url('fontfamily.eot'); /* IE9 Compat Modes */
+    src: url('fontfamily.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('fontfamily.woff') format('woff'), /* Modern Browsers */
+    url('fontfamily.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('fontfamily.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+ 
+/* You can add your font to your page like this: */ 
+body {
+    font-family: 'FontFamily', Arial, sans-serif;
