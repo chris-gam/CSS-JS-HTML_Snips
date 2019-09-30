@@ -8,5 +8,5 @@ A collection of some CSS code that I found useful.
   <li><b>clearfix-hack.css</b>: Keep your floating items organized.</li>
   <li><b>font-face.css</b>: Import your font family with CSS.</li>
   <li><b>3d_button.css</b>: 3D button effect with css. <a href="https://codepen.io/stakitos/pen/zYOyXWK">PEN</a></li>
-  <li><b>on scroll anchors</b></li>: Fixed side menu / smooth change each section / update nav links class <a href="https://codepen.io/stakitos/pen/gOYJVap">PEN</a> (needs jQuery)
+  <li><b>on scroll anchors</b>: Fixed side menu / smooth change each section / update nav links class <a href="https://codepen.io/stakitos/pen/gOYJVap">PEN</a> (needs jQuery)</li>
 </ul>
