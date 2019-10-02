@@ -10,4 +10,5 @@ A collection of some CSS code that I found useful.
   <li><b>3d_button.css</b>: 3D button effect with css. <a href="https://codepen.io/stakitos/pen/zYOyXWK">PEN</a></li>
   <li><b>on scroll anchors</b>: Fixed side menu / smooth change each section / update nav links class <a href="https://codepen.io/stakitos/pen/gOYJVap">PEN</a> (needs jQuery)</li>
   <li><b>301-redirect.php</b>:301 Redirect Snip</li>
+  <li><b>gradient-border.css</b>: Add a border with gradient. <a href="https://codepen.io/stakitos/pen/mdbNBoB">PEN</a></li>
 </ul>
