@@ -1,0 +1,18 @@
+.bordered-element {
+    border-width: 10px 10px 10px 10px;
+    border-image: linear-gradient(45deg, rgb(238, 226, 165) 0%, rgb(188, 151, 67) 100%);
+    border-image-slice: 5;
+    border-style: solid;
+} /*first way*/
+
+.bordered-element-2:before {
+    height: 10px;
+    width: 100%;
+    content: "";
+    left: 0;
+    top: 0;
+    background: linear-gradient(to right,#efe4a8,#bc9743,#bc9743);
+    position: absolute;
+
+}/*second way / top border */
+   
