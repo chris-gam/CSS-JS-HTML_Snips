@@ -11,3 +11,5 @@ $(function() {
         fixedContentPos: false
     });
 });
+
+//View complete example : https://codepen.io/stakitos/pen/ExxaOOx
