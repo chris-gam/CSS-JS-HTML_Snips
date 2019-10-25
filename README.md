@@ -15,4 +15,5 @@ A collection of some CSS code that I found useful.
   <li><b>acf_to_slug.php</b>: Add custom field value to the post/page permalink - Wordpress.</li>
   <li><b>CSS Flex Grid</b>: Responsive flex grid. <a href="https://codepen.io/stakitos/pen/gOOaazw">PEN</a></li>
   <li><b>Youtube as background</b>:Youtube video autoplaying with no controls. <a href="https://codepen.io/stakitos/pen/GRRWmGJ">PEN</a> </li>
+  <li>Circled Progress (SVG Stroke Properties) see <a href="https://codepen.io/stakitos/pen/wvvdOeJ">PEN</a></li>
 </ul>
