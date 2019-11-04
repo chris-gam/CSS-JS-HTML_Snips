@@ -17,4 +17,5 @@ A collection of some CSS code that I found useful.
   <li><b>Youtube as background</b>:Youtube video autoplaying with no controls. <a href="https://codepen.io/stakitos/pen/GRRWmGJ">PEN</a> </li>
   <li>Circled Progress (SVG Stroke Properties) see <a href="https://codepen.io/stakitos/pen/wvvdOeJ">PEN</a></li>
   <li><b>Pricing Plans Design</b>: A simple pricing plans design <a href="https://codepen.io/stakitos/full/BaamVJx">PEN</a></li>
+  <li>Simple Counter (jQuery) <a href="https://codepen.io/stakitos/pen/NWWwQvd">PEN</a></li>
 </ul>
