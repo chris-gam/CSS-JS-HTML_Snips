@@ -1,0 +1,38 @@
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Asap&display=swap" rel="stylesheet"> 
+  <style>
+      body{
+      background:#444;
+    }
+    #clock {
+      font-family: 'Asap', sans-serif;
+      font-size:92px;
+      color:white;
+      text-align:center;
+      margin-top:100px;
+    }
+</style>
+</head>
+<body onload="jsClock(); setInterval('jsClock()', 1000 )">
+  <div id="clock"></div>
+  
+  <script>
+    function jsClock(){
+  
+      var time = new Date ( );
+      var hours = time.getHours();
+      var minutes = time.getMinutes();
+      var seconds = time.getSeconds();
+
+      //minutes = ( minutes < 10 ? "0" : "" ) + minutes;
+      //seconds = ( seconds < 10 ? "0" : "" ) + seconds;
+      dayornight = ( hours < 12 ) ? "AM" : "PM";
+
+      var timeString = hours + ":" + minutes + ":" + seconds + ":" + dayornight ;
+
+      document.getElementById("clock").innerHTML = timeString;
+    }
+  </script>
+</body>
+</html>
