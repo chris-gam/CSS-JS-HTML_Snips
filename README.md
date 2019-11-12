@@ -19,4 +19,5 @@ A collection of some CSS code that I found useful.
   <li><b>Pricing Plans Design</b>: A simple pricing plans design <a href="https://codepen.io/stakitos/full/BaamVJx">PEN</a></li>
   <li>Simple Counter (jQuery) <a href="https://codepen.io/stakitos/pen/NWWwQvd">PEN</a></li>
   <li><b>right-click-and-copy-disable.js</b>: Disable right-click, drag, copy, paste and cut with Javascipt</li>
+  <li><b>javascript-clock.html</b>: Javascript Clock - 24h. <a href="https://codepen.io/stakitos/pen/XWWPbZM">PEN</a></li>
 </ul>
