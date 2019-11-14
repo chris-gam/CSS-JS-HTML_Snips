@@ -1,0 +1,74 @@
+body {
+  background: #e3e3e3;
+}
+
+.section-wrapper {
+  font-family: "Asap", sans-serif;
+  text-align: center;
+  margin-top: 75px;
+}
+
+.card {
+  perspective: 1000;
+  margin: 0 auto;
+  max-width: 350px;
+}
+.card .front, .card .back {
+  backface-visibility: hidden;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 30px;
+  box-sizing: border-box;
+  transition-delay: 0.1s;
+  transition: 0;
+}
+.card .front {
+  transform: rotateY(0deg);
+  background: linear-gradient(75deg, #1a2a6c, #b21f1f, #fdbb2d);
+}
+.card .front img {
+  border-radius: 5px;
+  margin: 0 auto;
+  display: table;
+  margin-top: 35px;
+}
+.card .front .card-title {
+  color: white;
+  padding-top: 30px;
+  font-size: 32px;
+}
+.card .front .parag {
+  color: white;
+}
+.card .back {
+  transform: rotateY(180deg);
+  opacity: 0;
+  padding-top: 55px;
+  font-size: 16px;
+  backface-visibility: visible;
+  background: linear-gradient(45deg, #FDC830, #F37335);
+  color: white;
+  line-height: 1.3;
+}
+.card .card-inner {
+  position: relative;
+  max-width: 350px;
+  height: 475px;
+  border-radius: 15px;
+  box-shadow: 0 0px 75px rgba(0, 0, 0, 0.65);
+  overflow: hidden;
+  transition: 0.5s;
+  transform-style: preserve-3d;
+}
+.card .card-inner:hover {
+  transform: rotateY(180deg);
+}
+.card .card-inner:hover .front {
+  opacity: 0;
+}
+.card .card-inner:hover .back {
+  opacity: 1;
+}
