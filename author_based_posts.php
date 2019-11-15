@@ -1,4 +1,4 @@
-	<?php
+<?php
   global $post;
   $the_author = get_the_author_meta( 'nickname' );
   echo $the_author;
@@ -7,4 +7,4 @@
   foreach( $the_posts as $post ) : setup_postdata($post); ?>
     <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
   <?php endforeach; 
-  ?>
+?>
