@@ -22,4 +22,5 @@ A collection of some CSS code that I found useful.
   <li><b>javascript-clock.html</b>: Javascript Clock - 24h. <a href="https://codepen.io/stakitos/pen/XWWPbZM">PEN</a></li>
   <li><b>flipping card</b>: Simple information card which rotates on hover. <a href="https://codepen.io/stakitos/pen/vYYVRyv">PEN</a></li>
   <li><b>author_based_posts.php</b>: Wordpress php script for displaying posts of an author.</li>
+  <li><b>add_meta_og.php</b>: Add Open Graph tags to your Joomla articles. </li>
 </ul>
