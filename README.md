@@ -24,4 +24,5 @@ A collection of some CSS code that I found useful.
   <li><b>author_based_posts.php</b>: Wordpress php script for displaying posts of an author.</li>
   <li><b>add_meta_og.php</b>: Add Open Graph tags to your Joomla articles. </li>
   <li><b>woocommerce_related_last_category.php</b>: related.php alternative for displaying only the products of the same subcategory.</li>
+  <li><b>custom_wordpress_post-type.php</b>: Create custom Post Type on Wordpress </li>
 </ul>
