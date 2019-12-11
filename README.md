@@ -25,4 +25,5 @@ A collection of some CSS code that I found useful.
   <li><b>add_meta_og.php</b>: Add Open Graph tags to your Joomla articles. </li>
   <li><b>woocommerce_related_last_category.php</b>: related.php alternative for displaying only the products of the same subcategory.</li>
   <li><b>custom_wordpress_post-type.php</b>: Create custom Post Type on Wordpress </li>
+  <li><b>create_custom_post_type_taxonomy.php</b>: Create custom post type taxonomy [Wordpress]  </li>
 </ul>
